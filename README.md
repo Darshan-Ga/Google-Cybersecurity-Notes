@@ -6,7 +6,7 @@ My technical documentation for the Google Cybersecurity Professional Certificate
 This repository contains my structured engineering notes and technical frameworks compiled while completing the Google Cybersecurity Professional Certificate. 
 
 ## 📂 Curriculum Progress
-* **[COMPLETED] Course 1:** Foundations of Cybersecurity (Module 1)
+* **[ON_GOING] Course 1:** Foundations of Cybersecurity 
 * **[PENDING] Course 2:** Play It Safe: Manage Security Risks
 * **[PENDING] Course 3:** Connect and Protect: Networks and Network Security
 * **[PENDING] Course 4:** Tools of the Trade: Linux and SQL
